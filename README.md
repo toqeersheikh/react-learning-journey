@@ -8,7 +8,7 @@ This repository represents my continuous practice, projects, and notes as I move
 
 ## 🎯 Learning Resources
 
-### 📘 1. [Traversy Media — React Front To Back (Udemy)](https://www.udemy.com/course/react-front-to-back/)
+### 📘 1. [Traversy Media — Modern React From The Beginning (Udemy)]([https://www.udemy.com/course/react-front-to-back](https://www.udemy.com/course/modern-react-from-the-beginning/?couponCode=MT251103G1)/)
 
 > A fast-paced, project-based course focused on understanding the core concepts and building real-world React apps.
 
